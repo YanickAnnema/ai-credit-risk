@@ -1,5 +1,6 @@
-# AI displacement risk and corporate credit spreads
 [![DOI](https://zenodo.org/badge/1269097650.svg)](https://doi.org/10.5281/zenodo.20688909)
+
+# AI displacement risk and corporate credit spreads
 Does the risk that AI automates an issuer's workforce show up in the price of its
 bonds? This repository builds a firm level measure of AI displacement exposure,
 attaches it to the monthly Z-spread of senior unsecured USD bonds for 344
