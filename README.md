@@ -50,7 +50,8 @@ ai-credit-risk/
 │   └── 03_figures.py              pre-trend and coefficient figures
 ├── data/
 │   ├── README.md                  every input, its source, and its license
-│   └── industry_exposure_4d_2025.csv   public-derived exposure by NAICS (shared)
+│   ├── industry_exposure_4d_2025.csv   public-derived exposure by NAICS (shared)
+│   └── firm_ai_intensity.csv           firm AI text measure from EDGAR (shared)
 ├── figures/
 │   ├── fig1_pretrend.png
 │   └── fig2_coefficients.png
