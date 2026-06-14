@@ -1,0 +1,20 @@
+# Licensed LSEG / ORBIS data and any licensed-derived files. Never redistribute.
+*.xlsx
+*.xls
+LSEG*
+~$*
+bond_ref.csv
+spread_history.csv
+issuer_fundamentals.csv
+universe_bonds.csv
+zspread_universe.csv
+issuer_month_oas.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Shared on purpose (public-derived): industry_exposure_4d_2025.csv,
+# firm_ai_intensity.csv (EDGAR-derived), spec_curve.csv (aggregate results).
