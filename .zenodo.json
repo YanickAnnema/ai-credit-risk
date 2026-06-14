@@ -1,0 +1,22 @@
+{
+  "title": "AI displacement risk and corporate credit spreads",
+  "description": "A firm-level test of whether AI workforce-displacement exposure is priced in corporate bond Z-spreads for 344 issuers from 2015 to 2026. The result is a clean, well-identified null: point estimates are right-signed (more exposure, wider spreads) but only the rating-controlled cross-section is marginally significant, and the pre-trend is flat.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Annema, Yanick",
+      "affiliation": "University of Twente"
+    }
+  ],
+  "keywords": [
+    "AI economics",
+    "credit risk",
+    "corporate bonds",
+    "asset pricing",
+    "labor economics",
+    "panel data",
+    "econometrics"
+  ]
+}
